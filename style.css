@@ -1,10 +1,8 @@
-/* Style for the body */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
 
-/* Style for the navbar */
 #navbar {
   position: fixed;
   top: 0;
